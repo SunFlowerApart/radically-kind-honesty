@@ -9,7 +9,7 @@ ethics of personal responsibility.)
 
 So, here is my manifesto for a _radically kind honesty_!
 
-1. Do not say any untruths.
+1. Do not lie (that is, _do not say any untruths_).
 
    This one should be clear. This is still a manifesto for honesty.
 
@@ -25,9 +25,10 @@ So, here is my manifesto for a _radically kind honesty_!
 
    Consider the classical _Does this dress make me look fat?_ Assuming it,
    indeed, make the wearer look fat, the candid answer says _it does not
-   flatter you_. It answers the question honestly,
+   flatter you_. It answers the question honestly (without ambiguity), while
+   attempting to minimize pain.
 
-5. Sometimes, the honest thing to do is to refuse to answer the question.
+4. Sometimes, the honest thing to do is to refuse to answer the question.
 
 
 ## About
@@ -38,5 +39,7 @@ Author: Sunflower Apart
 
 Comments/Complaints/Praise are all Welcome.
 
-Copyright: Sunflower 2020. All Rights Reserved.
+Copyright: Sunflower 2020-21.
+
+Licence: [CC BY](https://creativecommons.org/licenses/by/2.0/)
 
